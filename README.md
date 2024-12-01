@@ -12,7 +12,10 @@
 - 👨‍💻 All of my projects are available at [https://github.com/KaustubhSN12](https://github.com/KaustubhSN12)
 
 - 💬** Ask me about **
-- **As an IT student passionate about technology, I specialize in data analytics and data science, with beginner skills in web and Android development. Proficient in Python programming and data analysis, I continuously stay updated on the latest tools and techniques. I have a solid grasp of HTML, CSS, JavaScript, and hands-on experience in Android app development using Java and Android Studio. Driven by a commitment to learning and excellence, I'm ready to contribute meaningfully to impactful projects. Let's connect and explore collaboration opportunities!**
+- **As an IT student passionate about technology, I specialize in data analytics and data science, with beginner skills in web and Android development. Proficient in Python programming, data analysis, and data visualization, I am constantly updating my expertise to include cutting-edge tools and methodologies.
+
+I have knowledge of data science techniques using R programming, statistical methods, linear programming, advanced database management systems, interactive data visualization with Power BI, and research methodology. I also possess a strong foundation in HTML, CSS, JavaScript, and hands-on experience in Android app development using Java and Android Studio.
+Driven by a commitment to learning and excellence, I am eager to contribute meaningfully to impactful projects. Let's connect and explore collaboration opportunities!!**
 
 - 📫 How to reach me **kaustubh.n007@gmail.com**
 
