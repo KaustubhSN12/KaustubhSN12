@@ -18,7 +18,7 @@ Driven by a commitment to learning and excellence, I am eager to contribute mean
 
 - 📫 How to reach me **kaustubh.n007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uNYMdQkAncqmY6kcwoYzbSEzVw6pNlxl/view?usp=drive_link](https://drive.google.com/file/d/1uNYMdQkAncqmY6kcwoYzbSEzVw6pNlxl/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HVpPZwEfRuEjFPhh7xqVi8N9eZZ1lJ0A/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
