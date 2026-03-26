@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kaustubh</h1>
-<h3 align="center">A passionate Data Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhsn12&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhsn12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhsn12" alt="kaustubhsn12" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaustubh_sn" target="blank"><img src="https://img.shields.io/twitter/follow/kaustubh_sn?logo=twitter&style=for-the-badge" alt="kaustubh_sn" /></a> </p>
-<h1 align="center">Hi 👋, I'm Kaustubh Narayankar</h1>
-<h3 align="center">Data Science Student | Machine Learning Engineer | Research Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Kaustubh </h1>
+<h3 align="center">Data Science Student | Data analyst | Business Analyst | Machine Learning Engineer | Research Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaustubhsn12&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhsn12" />
@@ -27,7 +25,7 @@ I'm a data science practitioner who builds end-to-end ML solutions — from expl
 - 🔬 **Research Areas:** Deep Learning, Time Series, NLP, Sports Analytics
 - 🛠️ **Technical Focus:** PyTorch, Feature Engineering, Model Optimization, Deployment
 - 📊 **Approach:** Data-driven decision making with rigorous validation
-- 🎯 **Passion:** Solving real-world problems with AI and statistical methods
+- 🎯 **Passion:** Solving real-world Business problems with AI and statistical methods
 - 💼 **Status:** Open to ML Engineering, Data Science, and Research opportunities
 
 ---
@@ -41,7 +39,7 @@ I'm a data science practitioner who builds end-to-end ML solutions — from expl
 - Achieved 96.5% RMSE reduction through iterative model optimization (v1 → v3)
 - Deployed interactive Streamlit dashboard with probabilistic forecasts (Q10/Q50/Q90)
 - **Tech:** PyTorch, TFT Architecture, Scikit-learn, Streamlit, Plotly
-- **Results:** R² = 0.9984, Statistically validated (p < 0.05)
+- **Results:** R² = 0.9584, Statistically validated (p < 0.05)
 
 📂 **[View Project](#)** | 📊 **[Live Demo](#)**
 
@@ -203,8 +201,8 @@ I'm actively seeking opportunities where I can apply my data science and machine
 </p>
 
 **📧 Email:** kaustubh.n007@gmail.com  
-**📄 Resume:** [View Resume](https://drive.google.com/file/d/1HVpPZwEfRuEjFPhh7xqVi8N9eZZ1lJ0A/view?usp=drive_link)  
-**👨‍💻 Portfolio:** [All Projects](https://github.com/KaustubhSN12)
+**📄 Resume:** [View Resume](https://drive.google.com/file/d/1__EnWTJwcvdrQEtoFJfzudKzDM48b55z/view?usp=drive_link)  
+**👨‍💻 Portfolio:** [All Projects](https://kaustubhsn12.github.io/Kaustubh_Portfolio/)
 
 ---
 
