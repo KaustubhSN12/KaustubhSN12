@@ -1,9 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhsn12&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhsn12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhsn12" alt="kaustubhsn12" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kaustubh_sn" target="blank"><img src="https://img.shields.io/twitter/follow/kaustubh_sn?logo=twitter&style=for-the-badge" alt="kaustubh_sn" /></a> </p>
 <h1 align="center">Hi 👋, I'm Kaustubh </h1>
 <h3 align="center">Data Science Student | Data analyst | Business Analyst | Machine Learning Engineer | Research Enthusiast</h3>
 
